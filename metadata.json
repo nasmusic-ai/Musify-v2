@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Music Player",
+  "description": "A modern Spotify-style music player that streams audio files directly from a GitHub repository folder.",
+  "requestFramePermissions": []
+}
